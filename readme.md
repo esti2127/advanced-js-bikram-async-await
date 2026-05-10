@@ -55,3 +55,4 @@ Ejercicio 7.- Declara una función **getRandomCharacter** que retorne un persona
 Ejercicio 8.- Declara una función **getRandomCharacterInfo** que retorne de un personaje su imagen, nombre, episodios en los que aparece y el nombre del primer episodio en el que aparece + fecha de estreno, tendrás que hacer otro fetch para llegar a los ultimos datos. Formato de retorno => (return {img, name, episodes, firstEpisode, dateEpisode})
 
 Ejercicio 9.- Pinta los anteriores datos en el DOM (no se testea)
+"# Bikram-async-await" 
